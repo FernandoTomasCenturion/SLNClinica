@@ -1,0 +1,16 @@
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\bin\Debug\SLNClinica.exe.config
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\bin\Debug\SLNClinica.exe
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\bin\Debug\SLNClinica.pdb
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\bin\Debug\EntityFramework.dll
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\bin\Debug\EntityFramework.xml
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.csproj.AssemblyReference.cache
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.Properties.Resources.resources
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.csproj.GenerateResource.cache
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.csproj.CoreCompileInputs.cache
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.csproj.CopyComplete
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.exe
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.pdb
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.Migrations.initial.resources
+C:\Users\t.centurion\source\repos\SLNClinica\SLNClinica\obj\Debug\SLNClinica.Migrations._1.resources
